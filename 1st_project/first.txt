@@ -1,2 +1,2 @@
-hello git!My first project 
+hello git! My first project 
 adding new data to my file 
